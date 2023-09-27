@@ -1,0 +1,8 @@
+description: Montana refundable tax credits.
+values:
+  2019-01-01:
+    - mt_capital_gains
+    - mt_eitc
+metadata:
+  unit: list
+  label: MT refundable tax credits
